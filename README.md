@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="[https://random-memer.herokuapp.com](https://devhumor.com/media/work-smarter-not-harder)/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chesnguyen2006&icon=4&color=2)](https://visitcount.itsvg.in)
