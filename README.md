@@ -112,7 +112,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-17.jpeg" width="75%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
 
 </div>
 
