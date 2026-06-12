@@ -1,20 +1,19 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hi there, I'm Ches Nguyen
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ches%20Nguyen&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-taught%20Developer%20from%20Vietnam&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <a href="https://github.com/chesnguyen2006">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Self-taught+developer+from+Vietnam;Always+learning+something+new;Feel+free+to+check+out+my+repos!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Self-taught+developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Always+learning+something+new+%F0%9F%93%9A;Feel+free+to+check+out+my+repos+%E2%9C%A8&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chesnguyen2006&label=Profile%20views&color=c850c0&style=flat" alt="chesnguyen2006" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chesnguyen2006&label=Profile%20views&color=c850c0&style=for-the-badge" alt="chesnguyen2006" />
+  <img src="https://img.shields.io/github/followers/chesnguyen2006?label=Followers&style=for-the-badge&color=f75c7e" alt="followers"/>
+</p>
 
 ## 🌐 Socials
 
