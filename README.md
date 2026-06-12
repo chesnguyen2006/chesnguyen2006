@@ -62,7 +62,7 @@
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chesnguyen2006&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chesnguyen2006&theme=tokyo-night&hide_border=true&area=true" width="85%"/>
 
 </div>
 
