@@ -1,116 +1,92 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Ches Nguyen</h1>
+<h3 align="center">A passionate developer who loves building things with code</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:24283b&height=240&section=header&text=Nguyen%20Truong&fontSize=65&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Lifelong%20Learner&descAlignY=62&descSize=16&descColor=7dcfff" width="100%"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chesnguyen2006&label=Profile%20views&color=c850c0&style=flat" alt="chesnguyen2006" />
+</p>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&random=false&width=560&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+ches+%E2%80%94+nice+to+meet+you!;%F0%9F%92%BB+I+build+things+with+C%2B%2B+%26+Python;%F0%9F%97%84%EF%B8%8F+Powered+by+coffee+%26+curiosity;%F0%9F%9A%80+Always+shipping%2C+always+learning" />
+---
+
+## 🌐 Socials
+
+<p align="left">
+<a href="https://www.facebook.com/nguyen.truong.912979" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
 </a>
-
-<br/>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.truong.912979)&nbsp;
-[![Instagram](https://img.shields.io/badge/@__chesnguyen__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_chesnguyen_/)&nbsp;
-[![GitHub](https://img.shields.io/badge/chesnguyen2006-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chesnguyen2006)
-
-</div>
+<a href="https://www.instagram.com/_chesnguyen_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 Tech Stack
 
-```python
-class ChesNguyen:
-    name       = "Nguyen Truong"
-    alias      = "chesnguyen"
-    location   = "Vietnam 🇻🇳"
-    languages  = ["C", "C++", "Python", "Java", "HTML/CSS"]
-    databases  = ["MySQL", "SQLite", "MS SQL Server"]
-    tools      = ["Apache", "Apache Ant", "Apache Airflow", "Canva"]
-    interests  = ["Backend Dev", "Data Engineering", "Open Source"]
-    motto      = "Clean code is not written by following a set of rules."
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together.")
-
-me = ChesNguyen()
-me.say_hi()
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Tools & Platforms
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chesnguyen2006&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesnguyen2006&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chesnguyen2006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=420" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesnguyen2006&theme=tokyonight&hide_border=true&layout=donut&langs_count=6" height="175"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=chesnguyen2006&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chesnguyen2006&bg_color=1a1b27&color=7dcfff&line=bb9af7&point=c0caf5&area=true&hide_border=true" width="96%"/>
-
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chesnguyen2006&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## ✍️ Random Dev Quote
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chesnguyen2006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-
-</div>
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
 ---
 
-## ✍️ Dev Quote
+## 😂 Random Dev Meme
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
-
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450px" alt="dev meme"/>
+</p>
 
 ---
 
-<div align="center">
+## 💰 Support Me
 
-<img src="https://komarev.com/ghpvc/?username=chesnguyen2006&style=flat-square&color=7dcfff&label=profile+views"/>
+If you find my work useful, consider buying me a coffee ☕
 
-<br/><br/>
+<p align="left">
+<a href="https://buymeacoffee.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
+<a href="https://paypal.me/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+</a>
+<a href="https://patreon.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+</a>
+<a href="https://ko-fi.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,100:1a1b27&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=7dcfff&fontAlignY=65&animation=twinkling" width="100%"/>
+---
 
-</div>
+<p align="center"><i>Proudly created with ❤️</i></p>
