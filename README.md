@@ -1,5 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Ches Nguyen</h1>
-<h3 align="center">A passionate developer who loves building things with code</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi there, I'm Ches Nguyen
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+
+<p align="center">
+  <a href="https://github.com/chesnguyen2006">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Self-taught+developer+from+Vietnam;Always+learning+something+new;Feel+free+to+check+out+my+repos!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chesnguyen2006&label=Profile%20views&color=c850c0&style=flat" alt="chesnguyen2006" />
@@ -86,6 +95,16 @@ If you find my work useful, consider buying me a coffee ☕
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
 </a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chesnguyen2006/chesnguyen2006/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+> ⚠️ Cần setup GitHub Action để tạo file snake — xem hướng dẫn ở cuối tin nhắn.
 
 ---
 
