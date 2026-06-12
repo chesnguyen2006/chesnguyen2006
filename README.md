@@ -98,7 +98,7 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Dev meme
 
 <div align="center">
 
